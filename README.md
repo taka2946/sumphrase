@@ -1,4 +1,6 @@
 # SumPhrase
+Contains code and dataset from the paper [Phrase-Level Localization of Inconsistency Errors in Summarization by Weak Supervision](https://aclanthology.org/2022.coling-1.537/), Masato Takatsuka, Tetsunori Kobayashi, Yoshihiko Hayashi, COLING 2022.
+
 Environment base is Python 3.8. Also see requirements.txt. We used Stanford CoreNLP version 4.1.0.
 # Model and Data
 datasets are available at:
